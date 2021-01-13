@@ -27,3 +27,6 @@
 
 ### 6. How do you react to pressure or stressful situations?
     Recently, we completed a university wide project of migrating all devices from windows 7 to windows 10 which I was co-managing. This being a poject, had the eyes of many high profile people on it, which made the entire situation quite stressful. The pressure started building when the deadline was only 3 weeks away and we had a lot of faculty members not replying to our emails as they were unwillng to switch to a new OS which they would have to relearn entirely. We started writing knowledge base articles to help the users with the new OS, as well as we set up longer appointments so that they could as us any questions they had. We were able to convince our supervisors to extend the project deadline as well. With all that and a few more weeks of hard work, we were able to successfully complete the project 1 ekk earlier than the new deadline.
+
+### 7. How would you describe your working/learning style?
+    Traditionally I have been an independent learner. I like to learn new thi
